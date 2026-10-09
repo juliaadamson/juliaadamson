@@ -1,11 +1,16 @@
 
+
 <!-- ==================== GITHUB BANNER ==================== -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark github banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="./light github banner.png">
-    <img src="./Github Banner.png" alt="Julia's GitHub Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark%20github%20banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="./light%20github%20banner.png">
+    <img
+      src="./light%20github%20banner.png"
+      alt="Julia's GitHub Banner"
+      width="100%"
+    >
   </picture>
 </div>
 
