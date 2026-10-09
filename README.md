@@ -1,13 +1,12 @@
 
 <!-- ==================== GITHUB BANNER ==================== -->
 
-<!-- Custom banner introducing my background and achievements -->
 <div align="center">
-  <img
-    src="./Github Banner.png"
-    alt="Hi there, I'm Julia - Software Engineer, First-Class Computer Science Graduate and IET Prize Winner 2026"
-    width="100%"
-  >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark github banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="./light github banner.png">
+    <img src="./Github Banner.png" alt="Julia's GitHub Banner" width="100%">
+  </picture>
 </div>
 
 ---
